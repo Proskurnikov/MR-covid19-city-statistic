@@ -1,4 +1,4 @@
-# MR-covid19-city-statistic - Статистика COVID-19 в Московской области по регионам
+# MR-covid19-city-statistic - Статистика COVID-19 в Московской области по городским округам
 
 В таблице указано общее количество случаев на определенную дату
 
@@ -16,3 +16,9 @@
 - City - string (Название города)
 - Cases - int (Количество случаев)
 - Date - DateTime в формате DD.MM.YYYY (Дата в формате ДД.ММ.ГГГГ)
+
+## Moscow region COVID-19 data
+
+This repository contains data on coronavirus in Moscow region.
+
+Data source https://covid.mz.mosreg.ru/ 
