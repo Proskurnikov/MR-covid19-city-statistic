@@ -2,7 +2,7 @@
 
 В таблице указано общее количество случаев на определенную дату
 
-Источник данных https://covid.mz.mosreg.ru/ 
+Источник данных <https://covid.mz.mosreg.ru/>
 
 Отсутствуют данные на даты (в публичный доступ не выкладывались):
 
@@ -30,4 +30,4 @@
 
 This repository contains data on coronavirus in Moscow region.
 
-Data source https://covid.mz.mosreg.ru/ 
+Data source <https://covid.mz.mosreg.ru/>
